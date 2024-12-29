@@ -1,5 +1,5 @@
 # Giftwrap!
-Giftwrap is a Christmas-themed Python board game developed in under two days. Compete with a friend or a minimax algorithm to place the most gifts on the board!
+Giftwrap is a Christmas-themed Python board game developed in under two days. Compete with a friend or a custom minimax algorithm to place the most gifts on the board!
 
 (Please rate me well 🙏)
 
