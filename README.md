@@ -1,4 +1,3 @@
-![logo](https://github.com/user-attachments/assets/4c5410c0-573f-45a2-a3fe-2e0ee7cb0fee)
 # Giftwrap!
 Giftwrap is a Christmas-themed Python board game developed in under two days. Compete with a friend or a minimax algorithm to place the most gifts on the board!
 
@@ -19,3 +18,4 @@ Giftwrap is a Christmas-themed Python board game developed in under two days. Co
 - You should (hopefully) have access to the game window.
 
 Please have fun. I need to win this challenge. :)
+![logo](https://github.com/user-attachments/assets/4c5410c0-573f-45a2-a3fe-2e0ee7cb0fee)
